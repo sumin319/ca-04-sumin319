@@ -1,0 +1,10 @@
+INFO 2022-04-14 15:25:48,047 - Logging initialized.
+INFO 2022-04-14 15:25:48,050 - Query Image: Images/queries/108100.ppm
+INFO 2022-04-14 15:25:48,050 - Image Search Directory: Images/search
+INFO 2022-04-14 15:25:48,050 - Indexing and Search Method: List
+INFO 2022-04-14 15:25:48,050 - Number of images from search directory: All
+INFO 2022-04-14 15:25:48,050 - Indexing search images...
+INFO 2022-04-14 15:26:13,355 - Time taken to create searchable list: 25.304297924041748
+INFO 2022-04-14 15:26:13,355 - Searching match for query image...
+INFO 2022-04-14 15:26:13,788 - Time taken to match query image in searchable list: 0.4331631660461426
+INFO 2022-04-14 15:26:13,788 - Matched image: Images/search/108102.ppm
